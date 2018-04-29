@@ -1,0 +1,3 @@
+wisp project
+can aiko print this string to the file?
+the next step is: can aiko print this string as well as an integer9
